@@ -16,3 +16,6 @@ Limitations include:
 >U - upper triangular matrix
 
 >P - the pivot matrix
+
+### Limitations include:
+>Only matrices that are square can be utilized in this function.
