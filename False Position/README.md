@@ -1,8 +1,8 @@
 # False Position
 
-This function estimates the root of a given equation. 
+### This function estimates the root of a given equation. 
 
-*Inputs:*
+###### *Inputs:*
 >func - the function being evaluated
 
 >xl - the lower guess
@@ -13,7 +13,7 @@ This function estimates the root of a given equation.
 
 >maxiter - the number of iterations desired (should default to 200)
 
-*Outputs:*
+###### *Outputs:*
 
 >root - the estimated root location
 
