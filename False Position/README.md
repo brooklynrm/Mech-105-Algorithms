@@ -1,6 +1,7 @@
 # False Position
 
-### *Description:*This function estimates the root of a given equation. 
+### Description:
+This function estimates the root of a given equation. 
 
 ###### *Inputs:*
 >func - the function being evaluated
@@ -22,3 +23,6 @@
 >ea - the approximate relative error (%)
 
 >iter - how many iterations were performed
+
+### Limitations:
+This function becomes less accurate when it approaches an inflection point
