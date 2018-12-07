@@ -3,11 +3,11 @@
 This function integrates experimental data using Simpson’s 1/3 rule. It is able to do so by checking if there are an odd number of intervals. If so, the trapezoidal rule is used for the last interval. The function inputted should numerically evaluate the integral of the vector of function values ‘y’ with respect to ‘x’.
 
 ###### *Inputs:*
->x = independent variable from the data vector inputed
->y = dependent variable from the data vector inputed
+>1. x = independent variable from the data vector inputed
+>2. y = dependent variable from the data vector inputed
  
 ###### *Outputs:*
->I = integral of the vector function
+>1. I = integral of the vector function
 
 ##### Limitations:
 >This function will not work correctly if the intervals are unequally spaced.
