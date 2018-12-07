@@ -3,10 +3,10 @@ These are algorithms that I created within matlab in a Mechanical Engineering Pr
 The production of these algorithms started with learning how to solve each method by hand, planning each code on paper first, and then implimenting the skills and built in functions related to matlab in order to create a final product. There was many trials and errors that affected the overall development of the algorithms.
 
 *The files included are as follows:*
-  >**False Position**
+  >**1. False Position**
   
-  >**Simpson**
+  >**2. Heun**
   
-  >**LU Factor**
+  >**3. LU Factor**
   
-  >**Heun**
+  >**4. Simpson**
