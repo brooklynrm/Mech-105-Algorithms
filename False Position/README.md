@@ -1,6 +1,6 @@
 # False Position
 
-### This function estimates the root of a given equation. 
+### *Description:*This function estimates the root of a given equation. 
 
 ###### *Inputs:*
 >func - the function being evaluated
