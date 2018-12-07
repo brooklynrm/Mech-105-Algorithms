@@ -1,6 +1,6 @@
 # Heuns Method
 ### Description: 
-This function is used to find the numerical solution to a differential equation 'dydt'
+This function is used to find the numerical solution to a differential equation 'dydt'.
 
 ##### *Inputs:*
 
