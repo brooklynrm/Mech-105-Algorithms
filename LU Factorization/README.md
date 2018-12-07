@@ -4,15 +4,15 @@ This function determines the LU Factorization of a square matrix and utilizes pa
 
 ###### *Inputs:*
 
->A - coefficient matrix
+>1. A - coefficient matrix
 
 ###### *Outputs:*
 
->L - lower triangular matrix
+>1. L - lower triangular matrix
 
->U - upper triangular matrix
+>2. U - upper triangular matrix
 
->P - the pivot matrix
+>3. P - the pivot matrix
 
-### Limitations include:
+#### Limitations include:
 >Only matrices that are square can be utilized in this function.
