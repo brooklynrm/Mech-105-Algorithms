@@ -24,5 +24,5 @@ This function estimates the root of a given equation.
 
 >4. iter - how many iterations were performed
 
-### Limitations:
+#### Limitations:
 This function becomes less accurate when it approaches an inflection point
